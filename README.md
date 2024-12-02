@@ -31,9 +31,9 @@ This repository contains solutions to various DSA problems. The target for the m
 | 4    | Searching, Sorting         | 5 Questions  |
 
 ## Profile Link
-- GeeksforGeeks https://www.geeksforgeeks.org/user/rohitkumar01/
-- LeetCode      https://leetcode.com/u/rohitkumarvatsh01/
-- HackerRank    https://www.hackerrank.com/profile/rohitkumarvatsh1
+- GeeksforGeeks https://www.geeksforgeeks.org/user/himmoaggarwal/
+- LeetCode      https://leetcode.com/u/Himanshi_2006/
+- HackerRank    https://www.hackerrank.com/profile/himanshiaggarwa5
 
 ## Resources
 - GeeksforGeeks
